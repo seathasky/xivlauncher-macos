@@ -149,6 +149,7 @@ and click run. (This will take a while to install, be patient)
 2. XIVLauncher will start.
 3. Open XIVLuancher settings and add the Advanced Combat Tracker.exe to the Auto-Launch section.
 <img width="951" height="491" alt="image" src="https://github.com/user-attachments/assets/ee82b26d-a791-4aea-9b97-8f95ae164765" />
+
 4. Your overlay tool (e.g., BunnyHUD) can now connect to ACT via WebSocket.
 
 ---
