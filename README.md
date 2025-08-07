@@ -30,7 +30,7 @@ Using **Kegworks** allows you to build a Wine environment (I recommend Wine vers
 * Access to a Windows system — either a physical Windows PC or a virtual machine (VM)
 * [XIVLauncher](https://goatcorp.github.io/) fully installed on Windows 10/11 (must be extracted from a Windows installation)
 * [ACT installer](https://advancedcombattracker.com/download.php)
-* Familiarity with file structure in both Windows and macOS
+* Familiarity with file structure in both Windows and macOS and using terminal.
 
 ---
 
