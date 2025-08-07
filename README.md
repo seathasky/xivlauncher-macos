@@ -23,6 +23,15 @@ Using **Kegworks** allows you to build a Wine environment (I recommend Wine vers
 
 ---
 
+<p align="center">
+  <strong>Video of everything working:</strong><br><br>
+  <a href="https://www.youtube.com/watch?v=u9AMpRcnu4E">
+    <img src="https://img.youtube.com/vi/u9AMpRcnu4E/0.jpg" alt="Watch the video">
+  </a>
+</p>
+
+---
+
 ## Prerequisites
 
 * A macOS system (Sonoma or later recommended)
