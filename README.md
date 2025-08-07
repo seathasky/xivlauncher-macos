@@ -16,8 +16,6 @@ This guide is intended **only** for users who:
 
 * Only have a FF14 Mac license
 * Want to log combat using **ACT** without relying on **Dalamud plugins**
-* Find ACT non-functional on XIV on Mac due to Wine’s **WoW64 mode**, which lacks full 32-bit compatibility
-* Need compatibility with `.NET Framework` and other third-party tools
 * Prefer not to use Dalamud plugins — whether for peace of mind, control over what runs, or just personal preference
 
 Using **Kegworks** allows you to build a Wine environment (I recommend Wine version **23.7.1**) that bypasses these limitations by running everything inside a fully managed Wine prefix.
