@@ -14,9 +14,7 @@ For most users, XIV on Mac provides the best native-like experience on macOS. If
 
 This guide is intended **only** for users who:
 
-* Want to log combat using **ACT** without relying on **Dalamud plugins** <---MAIN REASON
-
-
+* Want to log combat using **ACT** without relying on **Dalamud plugins**
 * Find ACT non-functional on XIV on Mac due to Wine’s **WoW64 mode**, which lacks full 32-bit compatibility
 * Need compatibility with `.NET Framework` and other third-party tools
 * Prefer not to use Dalamud plugins — whether for peace of mind, control over what runs, or just personal preference
