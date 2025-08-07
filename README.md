@@ -68,7 +68,7 @@ XIVLauncher does **not** install correctly under Wine alone. You’ll need to se
 
 ### On a Windows PC or VM:
 
-1. Download and install XIVLauncher from: [https://github.com/goatcorp/XIVLauncher/releases](https://github.com/goatcorp/XIVLauncher/releases)
+1. Download and install XIVLauncher from: [XIVLauncher](https://goatcorp.github.io/)
 2. Launch it and complete initial setup.
 3. Copy these folders from your Windows profile:
 
