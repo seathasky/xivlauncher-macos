@@ -4,7 +4,7 @@
 
 This setup is provided **as-is** with no official support.
 
-I won’t be offering help through GitHub issues, tickets, DMs, or Discord. If you choose to go this route, it’s assumed you’re comfortable enough troubleshooting Wine, Kegworks, and ACT on your own. This guide is as detailed as it needs to be to get things running — the rest is on you. You are free to leave me non-support related message in the repos Discussions tab. If there is something completely wrong with the guide, let me know. Again, if it's support related, I will not answer.
+I won’t be offering help through GitHub issues, tickets, DMs, or Discord. If you choose to go this route, it’s assumed you’re comfortable enough troubleshooting Wine, Kegworks, and ACT on your own. This guide is as detailed as it needs to be to get things running — the rest is on you. You are free to leave me non-support related message in the repos Discussions tab. If I missed something, let me know. Again, if it's support related, I will not answer.
 
 ## Should You Use This Setup?
 
