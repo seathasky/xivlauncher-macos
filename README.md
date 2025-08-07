@@ -161,4 +161,4 @@ and click run. (This will take a while to install, be patient)
 4. Your overlay tool (e.g., BunnyHUD) can now connect to ACT via WebSocket.
 
 ---
-Good luck!
+Why did I make this guide? I was bored and w/ Dalamud being down during new patch days, I still wanted access to ACT if it was updated. It then gave me the idea to make a guide for users who would prefer not to use Dalamud but still want access to logs/meters. Have fun!
