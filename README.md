@@ -14,7 +14,7 @@ For most users, XIV on Mac provides the best native-like experience on macOS. If
 
 This guide is intended **only** for users who:
 
-* Have a FF14 Mac license.
+* Only have a FF14 Mac license
 * Want to log combat using **ACT** without relying on **Dalamud plugins**
 * Find ACT non-functional on XIV on Mac due to Wine’s **WoW64 mode**, which lacks full 32-bit compatibility
 * Need compatibility with `.NET Framework` and other third-party tools
