@@ -110,19 +110,16 @@ C:\Users\Kegworks\AppData\Local\XIVLauncher\XIVLauncher.exe
 ## If you want ACT, continue below
 ## Step 4: Install .NET Framework
 
-1. Download `.NET Framework 4.8` offline installer: [https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)
-2. Install it inside the wrapper:
+1. Click the Winetricks button in Kegworksconfig.
+2. Click custom and type:
 
 ```bash
-WINEPREFIX=/Applications/YourWrapperName.app/Contents/Resources/wineprefix/ \
-/Applications/YourWrapperName.app/Contents/Resources/wine/bin/wine dotnet48-installer.exe
+winetricks dotnet48
 ```
+and click run. (This will take a while to install, be patient)
 
-Or use `winetricks`:
+<img width="915" height="839" alt="image" src="https://github.com/user-attachments/assets/b75e9bc3-6924-4be3-8b8b-aee8b35622a2" />
 
-```bash
-WINEPREFIX=... winetricks dotnet48
-```
 
 > Winetricks may install prerequisites interactively.
 
